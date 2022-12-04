@@ -1,0 +1,9 @@
+C:\Users\usuario\source\repos\WinFormsPlantNaville\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\source\repos\WinFormsPlantNaville\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\source\repos\WinFormsPlantNaville\Capa_Datos\bin\Debug\Capa_Entidades.dll
+C:\Users\usuario\source\repos\WinFormsPlantNaville\Capa_Datos\bin\Debug\Capa_Entidades.pdb
+C:\Users\usuario\source\repos\WinFormsPlantNaville\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\WinFormsPlantNaville\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\WinFormsPlantNaville\Capa_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+C:\Users\usuario\source\repos\WinFormsPlantNaville\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\usuario\source\repos\WinFormsPlantNaville\Capa_Datos\obj\Debug\Capa_Datos.pdb
